@@ -1,0 +1,24 @@
+(1, 16): DecoderRnn1_StandardLstmCell_layer_0_forward::input_0
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::input_1
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::input_2
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::w_ii * input_0 + bias_i
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::w_hi * input_1
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::y_i
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::w_if * input_0 + bias_f
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::w_hf * input_1
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::y_f
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::w_ig * input_0 + bias_g
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::w_hg * input_1
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::y_g
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::w_io * input_0 + bias_o
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::w_ho * input_1
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::y_o
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::it
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::ft
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::cct
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::ot
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::it*cct
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::ft*input_2
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::c_next
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::c_temp
+(1, 32): DecoderRnn1_StandardLstmCell_layer_0_forward::h_next
